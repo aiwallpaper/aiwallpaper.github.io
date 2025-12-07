@@ -1,7 +1,8 @@
 ---
-title: Expressive Code Example
+title: 代码高亮配置
 published: 2024-04-10
 description: How code blocks look in Markdown using Expressive Code.
+image: "https://cdn.jsdelivr.net/gh/0326/imgs@main/blog/cover.jpeg"
 tags: [Markdown, Blogging, Demo]
 category: Examples
 draft: true

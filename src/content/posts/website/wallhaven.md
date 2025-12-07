@@ -1,9 +1,9 @@
 ---
 title: wallhaven.cc - 最强专业壁纸社区
 published: 2025-12-09
-description: "壁纸爱好者的首选网站之一"
+description: "壁纸爱好者的首选网站之一，二次元浓度很高"
 image: "https://cdn.jsdelivr.net/gh/0326/imgs@main/blog/20251206211503489.png"
-tags: ["网站", "社区", "动漫", "强推"]
+tags: ["网站", "社区", "二次元", "强推"]
 category: 壁纸网站
 draft: false
 ---

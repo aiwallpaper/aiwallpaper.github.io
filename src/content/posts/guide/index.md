@@ -1,14 +1,21 @@
 ---
-title: Simple Guides for Fuwari
+title: Fuwari 主题使用指南
 published: 2024-04-01
 description: "How to use this blog template."
-image: "./cover.jpeg"
+image: "https://cdn.jsdelivr.net/gh/0326/imgs@main/blog/cover.jpeg"
 tags: ["Fuwari", "Blogging", "Customization"]
 category: Examples
 draft: true
 ---
 
 > Cover image source: [Source](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/208fc754-890d-4adb-9753-2c963332675d/width=2048/01651-1456859105-(colour_1.5),girl,_Blue,yellow,green,cyan,purple,red,pink,_best,8k,UHD,masterpiece,male%20focus,%201boy,gloves,%20ponytail,%20long%20hair,.jpeg)
+
+
+## This Article is a Draft
+
+This article is currently in a draft state and is not published. Therefore, it will not be visible to the general audience. The content is still a work in progress and may require further editing and review.
+
+When the article is ready for publication, you can update the "draft" field to "false" in the Frontmatter.
 
 This blog template is built with [Astro](https://astro.build/). For the things that are not mentioned in this guide, you may find the answers in the [Astro Docs](https://docs.astro.build/).
 

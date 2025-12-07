@@ -3,7 +3,7 @@ title: wallpapers.com - 最强壁纸网站
 published: 2025-12-10
 description: "看这个域名，就知道是专业做壁纸的"
 image: "https://cdn.jsdelivr.net/gh/0326/imgs@main/blog/20251206212534238.png"
-tags: ["网站", "工具", "综合", "强推"]
+tags: ["网站", "工具", "综合"]
 category: 壁纸网站
 draft: false
 ---
