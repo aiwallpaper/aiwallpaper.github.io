@@ -1,4 +1,5 @@
-# aiwallpaper project  
+# aiwallpaper 爱喔壁纸
+
 theme by fuwari.
 ![Node.js >= 20](https://img.shields.io/badge/node.js-%3E%3D20-brightgreen) 
 ![pnpm >= 9](https://img.shields.io/badge/pnpm-%3E%3D9-blue) 
@@ -7,7 +8,7 @@ theme by fuwari.
 
 A static blog template built with [Astro](https://astro.build).
 
-[**🖥️ Live Demo (Vercel)**](https://fuwari.vercel.app)
+[**🖥️ Live Demo (Vercel)**](https://aiwall.vercel.app)
 
 ![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
 
