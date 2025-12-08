@@ -2,7 +2,7 @@
 title: Pixabay - 令人惊叹的免费图片素材资源库
 published: 2025-12-08
 description: "提供图片、插画、矢量图、视频和音乐等多种素材，可免费使用。"
-image: "https://cdn.jsdelivr.net/gh/0326/imgs@main/blog/20251206210708184.png"
+image: "https://cdn.jsdelivr.net/gh/0326/imgs@main/q50/20251206210708184.png"
 tags: ["网站", "免费", "素材", "综合", "强推"]
 category: 壁纸网站
 draft: false
@@ -14,4 +14,4 @@ Pixabay 提供图片、插画、矢量图、视频和音乐等多种素材。图
 
 提供多种尺寸图片下载，可以对图片进行二次编辑。
 
-<img src="https://cdn.jsdelivr.net/gh/0326/imgs@main/blog/20251206210923156.png" />
+<img src="https://cdn.jsdelivr.net/gh/0326/imgs@main/q50/20251206210923156.png" />

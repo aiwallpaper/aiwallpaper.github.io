@@ -2,7 +2,7 @@
 title: 壁纸湖 - 为壁纸控赞宝藏
 published: 2025-12-14
 description: "一款独立运营的个性化壁纸网站"
-image: "https://cdn.jsdelivr.net/gh/0326/imgs@main/blog/20251207085801808.png"
+image: "https://cdn.jsdelivr.net/gh/0326/imgs@main/q50/20251207085801808.png"
 tags: ["网站", "移动", "综合", "免费"]
 category: 壁纸网站
 draft: false

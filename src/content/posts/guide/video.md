@@ -1,7 +1,7 @@
 ---
 title: 文章中集成视频
-published: 2023-08-01
-image: "https://cdn.jsdelivr.net/gh/0326/imgs@main/blog/cover.jpeg"
+published: 2024-08-01
+image: "https://cdn.jsdelivr.net/gh/0326/imgs@main/q50/cover.jpeg"
 description: This post demonstrates how to include embedded video in a blog post.
 tags: [Example, Video]
 category: Examples

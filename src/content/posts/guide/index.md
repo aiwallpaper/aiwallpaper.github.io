@@ -2,7 +2,7 @@
 title: Fuwari 主题使用指南
 published: 2024-04-01
 description: "How to use this blog template."
-image: "https://cdn.jsdelivr.net/gh/0326/imgs@main/blog/cover.jpeg"
+image: "https://cdn.jsdelivr.net/gh/0326/imgs@main/q50/cover.jpeg"
 tags: ["Fuwari", "Blogging", "Customization"]
 category: Examples
 draft: true

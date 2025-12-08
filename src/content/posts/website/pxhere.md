@@ -2,7 +2,7 @@
 title: pxhere.com - 免费摄影图库
 published: 2025-12-12
 description: "又一个免费高清商业素材网站"
-image: "https://cdn.jsdelivr.net/gh/0326/imgs@main/blog/20251206220917061.png"
+image: "https://cdn.jsdelivr.net/gh/0326/imgs@main/q50/20251206220917061.png"
 tags: ["网站", "综合", "免费"]
 category: 壁纸网站
 draft: false

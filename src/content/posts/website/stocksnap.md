@@ -2,7 +2,7 @@
 title: stocksnap.io	- 免费高清图库
 published: 2025-12-11
 description: "免费无版权，壁纸图片质量高"
-image: "https://cdn.jsdelivr.net/gh/0326/imgs@main/blog/20251206220819722.png"
+image: "https://cdn.jsdelivr.net/gh/0326/imgs@main/q50/20251206220819722.png"
 tags: ["网站", "综合", "免费"]
 category: 壁纸网站
 draft: false

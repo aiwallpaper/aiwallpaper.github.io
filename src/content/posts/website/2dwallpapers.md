@@ -2,7 +2,7 @@
 title: 2dwallpapers - 二次元壁纸控的福音
 published: 2025-12-16
 description: "站如其名，各种精美动漫、游戏二次元作品壁纸网站"
-image: "https://cdn.jsdelivr.net/gh/0326/imgs@main/blog/20251208011716136.png"
+image: "https://cdn.jsdelivr.net/gh/0326/imgs@main/q50/20251208011716136.png"
 tags: ["网站", "动漫", "游戏", "免费", "二次元", "强推"]
 category: 壁纸网站
 draft: false
@@ -20,4 +20,4 @@ draft: false
 
 该平台由一群爱好者管理，旨在为用户提供高质量的免费资源，二次元必备壁纸网站之一。
 
-<img src="https://cdn.jsdelivr.net/gh/0326/imgs@main/blog/20251208011902675.png" />
+<img src="https://cdn.jsdelivr.net/gh/0326/imgs@main/q50/20251208011902675.png" />

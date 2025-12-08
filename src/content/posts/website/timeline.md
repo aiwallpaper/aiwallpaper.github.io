@@ -2,7 +2,7 @@
 title: 拾光壁纸 - 干净、舒适、流畅的壁纸网站
 published: 2025-12-13
 description: "一款独立运营的综合壁纸网站"
-image: "https://cdn.jsdelivr.net/gh/0326/imgs@main/blog/20251207084326712.png"
+image: "https://cdn.jsdelivr.net/gh/0326/imgs@main/q50/20251207084326712.png"
 tags: ["网站", "桌面", "移动", "综合", "开放", "免费"]
 category: 壁纸网站
 draft: false
